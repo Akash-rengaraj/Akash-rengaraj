@@ -44,34 +44,32 @@ I am an **AI & Data Science student** at **SKCET** (2024-2028) with a focus on *
 ---
 
 ### 📊 Combat Stats
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akash-rengaraj&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-rengaraj&theme=radical&hide_border=true" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Akash-rengaraj&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-rengaraj&theme=radical&hide_border=true" alt="Streak Stats" />
+    </td>
+  </tr>
+</table>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-rengaraj&theme=radical&hide_border=true&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-rengaraj&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
 
 ### 🏆 Achievements
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Akash-rengaraj&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Akash-rengaraj&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
   <br/><br/>
-  <img src="https://visitcount.itsvg.in/api?id=Akash-rengaraj&icon=5&color=12" />
+  <img src="https://komarev.com/ghpvc/?username=Akash-rengaraj&style=flat-square&color=blueviolet" alt="Profile Views" />
 </div>
