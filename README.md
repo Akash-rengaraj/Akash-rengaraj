@@ -11,10 +11,10 @@
 <br/>
 
 <!-- PROFILE VIEWS + FOLLOWERS BADGES -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Akash-rengaraj&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="profile views"/>
 &nbsp;
 <a href="https://github.com/YOUR_USERNAME?tab=followers">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1a1a2e" alt="followers"/>
+  <img src="https://img.shields.io/github/followers/Akash-rengaraj?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1a1a2e" alt="followers"/>
 </a>
 
 </div>
@@ -24,17 +24,17 @@
 ## `$ whoami`
 
 ```yaml
-Name        : [Your Name]
+Name        : Akash Rengaraj
 Role        : AI & Data Science Student → Aspiring Software Engineer
 College     : [Your College Name], Tamil Nadu 🇮🇳
-Year        : 3rd Year (2023–2027 batch)
-Location    : Madurai → Coimbatore 📍
+Year        : 3rd Year (2024–2028 batch)
+Location    : Coimbatore 📍
 Status      : 🟢 Actively seeking internship in Coimbatore (good stipend preferred 😄)
 Superpower  : Building end-to-end projects solo — from idea to deployment ⚡
 ```
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-rengaraj&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
 </div>
 
 ---
