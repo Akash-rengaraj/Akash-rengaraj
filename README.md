@@ -102,6 +102,13 @@ I'm a **3rd-year AI & Data Science** student at SKCET with a builder's mindset a
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white"/>
 </p>
 
+### 📱 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hive-FF7043?style=for-the-badge&logo=hive&logoColor=white"/>
+</p>
+
 ### 🎨 Design & 3D
 <p>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
@@ -118,6 +125,18 @@ I'm a **3rd-year AI & Data Science** student at SKCET with a builder's mindset a
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
+
+### 🧩 Soft Skills & Leadership
+<p>
+  <img src="https://img.shields.io/badge/Leadership-7c3aed?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Communication-0ea5e9?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System_Design-f59e0b?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Project_Management-16a34a?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Event_Management-e11d48?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Team_Coordination-6366f1?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-0891b2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Public_Speaking-dc2626?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
